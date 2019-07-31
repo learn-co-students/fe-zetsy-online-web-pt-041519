@@ -57,7 +57,6 @@ h2 {
     font-size: 2em;
 }
 
-/*turn curson into a finger when on a link*/
 a:-webkit-any-link {
     color: -webkit-link;
 	cursor: pointer;
